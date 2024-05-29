@@ -1,0 +1,483 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sec1 {
+    background-image: url(/img/banner-bk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+}
+
+.logo {
+    width: 100px;
+    margin-left: 130px;
+    margin-top: 60px;
+}
+
+.div1 {
+    display: flex;
+}
+
+.div1 p {
+    margin-left: 1300px;
+    margin-top: 110px;
+    font-size: 20px;
+    color: white;
+}
+
+.div2 button {
+    width: 130px;
+    height: 45px;
+    border-radius: 29px;
+    margin-left: 120px;
+    margin-top: 50px;
+    background-color: #00ffae;
+    border: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.div2 p {
+    color: white;
+    margin-left: 120px;
+    margin-top: 40px;
+    line-height: 27px;
+    font-size: 25px;
+    font-weight: 10;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.div2 h1 {
+    color: white;
+    font-size: 85px;
+    margin-left: 120px;
+    margin-top: 50px;
+
+}
+
+.div3 {
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    margin-top: 100px;
+
+}
+
+.div3 h1 {
+    margin-top: 90px;
+
+}
+
+.sec2 {
+    height: 800px;
+}
+
+.sec3 {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    height: 500px;
+    font-size: 20px;
+}
+
+.sec3 img {
+    width: 260px;
+}
+
+.span {
+    font-size: 40px;
+}
+
+.grandote {
+    display: flex;
+    height: 1000px;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: linear-gradient(168deg, #ffffff 30%, #00ffae 0);
+
+}
+
+.sec4 {
+    display: flex;
+}
+
+.sec5 {
+    display: flex;
+    margin-top: 200px;
+}
+
+.div1_sec4 {
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.div2_sec4 {
+    margin-left: 100px;
+}
+
+.sec5 img {
+    margin-left: 260px;
+    margin-bottom: 90px;
+}
+
+.sec4 img {
+    margin-left: 30px;
+}
+
+.div1_sec4 h1 {
+    font-size: 60px;
+}
+
+.div1_sec4 p {
+    font-size: 20px;
+}
+
+.div1_sec4 button {
+    width: 140px;
+    height: 55px;
+    border-radius: 29px;
+    margin-top: 50px;
+    background-color: #192440;
+    color: white;
+    border: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.div2_sec4 button {
+    width: 140px;
+    height: 55px;
+    border-radius: 29px;
+    margin-top: 50px;
+    background-color: #192440;
+    color: white;
+    border: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.div2_sec4 h1 {
+    font-size: 60px;
+}
+
+.div2_sec4 p {
+    font-size: 20px;
+}
+
+.sec6 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    height: 950px;
+    justify-content: center;
+}
+
+.div1_sec6 {
+    width: 400px;
+    height: 500px;
+    background-color: #192440;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.div1_sec6 h1 {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 26px;
+    margin-bottom: 40px;
+    margin-right: 3px;
+}
+
+.div2_sec7 h1 {
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 26px;
+    margin-bottom: 40px;
+    margin-right: 3px;
+}
+
+.div2_sec7 {
+    width: 400px;
+    height: 500px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.sec7 h1 {
+    margin-top: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 26px;
+    padding: 20px;
+}
+
+.sec7_span {
+    color: white;
+    font-size: 100px;
+}
+
+.sec7_span1 {
+    color: rgb(0, 0, 0);
+    font-size: 100px;
+}
+
+.button1_sec7 {
+    width: 140px;
+    height: 55px;
+    border-radius: 29px;
+    margin-top: 50px;
+    margin-left: 130px;
+    background-color: #ffffff;
+    color: #000000(24, 22, 22);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    border-color: #000000;
+    margin-bottom: 20px;
+}
+
+.div1_sec6 p {
+    color: white;
+    line-height: 40px;
+}
+
+.div2_sec7 p {
+    color: rgb(0, 0, 0);
+    line-height: 40px;
+}
+
+.sec7 {
+    display: flex;
+    margin-top: 90px;
+    margin-bottom: 100px;
+}
+
+.div4 {
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    margin-top: 70px;
+
+}
+
+.button_sec7 {
+    width: 140px;
+    height: 55px;
+    border-radius: 29px;
+    margin-top: 50px;
+    margin-left: 130px;
+    background-color: #00ffae;
+    color: #192440(24, 22, 22);
+    border: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.sec8 {
+    width: 100%;
+    height: 280px;
+    background-color: #edeff0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sec8 img {
+    width: 160px;
+    height: 80px;
+    margin-top: 110px;
+}
+
+.sec7_span3 p {
+    font-weight: 800;
+}
+
+.sec9 {
+    display: flex;
+    background-image: url(../img/contact-bk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+}
+
+.div1_sec9 p {
+    color: white;
+    margin-left: 120px;
+    margin-top: 40px;
+    line-height: 27px;
+    font-size: 25px;
+    font-weight: 200;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 40px;
+}
+
+.div1_sec9 h1 {
+    color: white;
+    font-size: 85px;
+    margin-left: 120px;
+    margin-top: 210px;
+
+}
+
+.form{
+    display: flex;
+    flex-direction: column ;
+    height: 50%;
+    width: 70% ;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+    /* background-color: #000000; */
+    margin-top: 50px;
+
+}
+.formulario{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    height: 100%;
+    width: 100%;
+
+
+}
+
+.dos{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+
+}
+.info {
+    background-color: brown;
+    font-size: 27px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 60%;
+    color: rgb(255, 255, 255);
+    margin-left: 200px;
+}
+
+ .info h2 {
+    font-size: 65px;
+}
+.info p{
+    margin-top: 15px;
+    font-size: 25px;
+    opacity: .9;
+}
+
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    color: #00ffae;
+ }
+
+
+ #name{
+    width: 390px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: transparent;
+    border-color: #00ffae;
+
+
+ }
+ #email{
+    width: 390px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: transparent;
+    border-color: #00ffae;
+
+ }
+ #message{
+    width: 820px;
+    height: 100px;
+    border-radius: 5px;
+    background-color: transparent;
+    border-color: #00ffae;
+ }
+
+ .btn-2 {
+    background-color: #00ffae;
+    color: rgb(0, 0, 0);
+    padding: 20px 220px;
+    width: 835px;
+    height: 60px;
+    border: 2px solid #ffffff;
+    border-radius: 30px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 5%; 
+    border: 0;
+ }
+
+ .btn-2:hover {
+    background-color: transparent;
+    color: rgb(255, 255, 255);  
+    font-weight: bold;
+}
+
+.div2_sec9{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    background-color: #192440;
+    width: 100%;
+    height: 150px;  
+}
+
+
+.div2_sec9 img{
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border: 8px solid;
+    border-radius: 50%;
+}
+
+.div2_sec9 p{
+    margin-left: 60px;
+    font-size: 20px;
+}
+
+.div3_sec9{
+    display: flex;
+    justify-content: space-between;
+    width: 350px;
+    margin-right: 200px;
+
+}
+
+.kalu{
+    margin-top: 40px;
+}
